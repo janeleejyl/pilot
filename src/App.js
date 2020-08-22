@@ -5,22 +5,14 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        <h1>
           Hello World.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+          <p>
+            My name is Jane Lee and I'm currently a Product Manager at Ruggable. This first pilot project will consist building a basic web interface using REACT.
+          </p>
+        </h1>
     </div>
-  );
+  )
 }
 
 export default App;
