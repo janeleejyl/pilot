@@ -9,7 +9,7 @@ function App() {
         Hello World.
         <p>
           My name is Alex Saldivar and I'm currently a Product Manager at
-          Ruggable. This first pilot project will consist building a basic web
+          Ruggable. This first pilot project will consist of building a basic web
           interface using REACT.
         </p>
       </h1>
